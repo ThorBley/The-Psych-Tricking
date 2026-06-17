@@ -1,10 +1,9 @@
-﻿![PsychionalEngineLogo](docs/img/TikyLogo.png)
+﻿![Idk](docs/img/TikyLogo.png)
 
 ## Installation:
 
 Ok First Of All Let's Get The HaxeFlixel's Shit
-
-```bash
+--------------------------------------------------
 1. First of all [Install Haxe](https://haxe.org/download/) or if it doesn't work [Install 4.3.4](https://haxe.org/download/version/4.3.4/)
 2. Then after installing [Haxe](https://haxe.org/) [Install Flixel/HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel/)
 3. Install git
@@ -50,5 +49,5 @@ Linux:
 □ lime test linux
 
 7. You Finished!
-
+----------------
 #### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99
